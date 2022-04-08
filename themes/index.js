@@ -355,6 +355,13 @@ const themes = {
     bg_color: "09131B",
     border_color: "0c1a25",
   },
+  Neev: {
+    title_color: "00f294",
+    icon_color: "00f18c",
+    text_color: "00f18c",
+    bg_color: "BF4103",
+    border_color: "AC3902",
+  },
   "rose_pine":{
     title_color: "9ccfd8",
     icon_color: "ebbcba",
